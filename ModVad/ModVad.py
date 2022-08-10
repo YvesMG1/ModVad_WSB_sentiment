@@ -1,8 +1,4 @@
-# coding: utf-8
-# Author: C.J. Hutto
-# Thanks to George Berry for reducing the time complexity from something like O(N^4) to O(N).
-# Thanks to Ewan Klein and Pierpaolo Pantone for bringing VADER into NLTK. Those modifications were awesome.
-# For license information, see LICENSE.TXT
+# Author: Y.M.G.
 
 """
 Vader changes made:

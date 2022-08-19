@@ -1,14 +1,5 @@
 # Author: Y.M.G.
 
-"""
-Vader changes made:
-    - Added only and literally in booster dict
-    - Remove special cases and idioms
-    - Add bigrams and trigrams
-    - Strenghten effect of question marks
-    - Removed numbers
-    - changed let's, what's to lets, whats
-"""
 
 import nltk
 import os
